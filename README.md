@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information technology
 - 💞️ I’m looking to collaborate on web projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i can work for 6 hours continuous ;)
+- ⚡ Fun fact: i can work for hours continuous ;)
 
 <!---
 vedant2048/vedant2048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
