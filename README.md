@@ -128,6 +128,9 @@ Debugging     → Everything 🐛
   <a href="https://www.linkedin.com/in/vedant-singh-techfreak/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/vedantsingh44">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ---
