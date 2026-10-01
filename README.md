@@ -82,12 +82,14 @@ A web application that generates personalized responses based on the user's sele
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant2048&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant2048&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant2048&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant2048&layout=compact&theme=github_dark&hide_border=true" height="180" />
 </p>
+
 
 ### 🔥 Contribution Streak
 
