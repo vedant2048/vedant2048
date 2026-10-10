@@ -97,15 +97,6 @@ A web application that generates personalized responses based on the user's sele
   <img src="https://streak-stats.demolab.com?user=vedant2048&theme=dark&hide_border=true&border_radius=4&timezone=IST&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedant2048/vedant2048/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 🎯 Currently
 
